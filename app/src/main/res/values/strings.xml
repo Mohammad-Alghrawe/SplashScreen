@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SplashScreen</string>
+    <string name="todo">TODO</string>
+    <string name="mohammad_alghrawe">Mohammad Alghrawe</string>
 </resources>
